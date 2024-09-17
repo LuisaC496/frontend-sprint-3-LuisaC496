@@ -1,0 +1,101 @@
+{
+    "rutinas": {
+      "todo_el_cuerpo": [
+        {
+          "nombre": "Sentadillas",
+          "tiempo": "1 min",
+          "descripcion": "Colócate de pie con los pies a la altura de los hombros y baja tus caderas como si te estuvieras sentando en una silla.",
+          "repeticiones": "3 series de 15 repeticiones",
+          "video_guia": "https://example.com/video-sentadillas"
+        },
+        {
+          "nombre": "Flexiones",
+          "tiempo": "1 min",
+          "descripcion": "Mantén tu cuerpo recto y baja tu pecho hacia el suelo, luego empuja hacia arriba.",
+          "repeticiones": "3 series de 12 repeticiones",
+          "video_guia": "https://example.com/video-flexiones"
+        }
+      ],
+      "musculos": [
+        {
+          "nombre": "Curl de bíceps",
+          "tiempo": "45 seg",
+          "descripcion": "Usa una pesa para levantar los brazos hacia tus hombros, manteniendo los codos fijos.",
+          "repeticiones": "3 series de 12 repeticiones",
+          "video_guia": "https://example.com/video-curl-biceps"
+        },
+        {
+          "nombre": "Extensiones de tríceps",
+          "tiempo": "45 seg",
+          "descripcion": "Levanta una pesa sobre tu cabeza con ambos brazos, luego bájala detrás de tu cabeza y vuelve a subir.",
+          "repeticiones": "3 series de 12 repeticiones",
+          "video_guia": "https://example.com/video-extensiones-triceps"
+        }
+      ],
+      "pectoral": [
+        {
+          "nombre": "Press de banca",
+          "tiempo": "1 min",
+          "descripcion": "Acostado en una banca, baja una barra con pesas hacia tu pecho y luego empuja hacia arriba.",
+          "repeticiones": "3 series de 10 repeticiones",
+          "video_guia": "https://example.com/video-press-banca"
+        },
+        {
+          "nombre": "Aperturas con mancuernas",
+          "tiempo": "1 min",
+          "descripcion": "Acostado en una banca, abre los brazos hacia los lados y luego júntalos sobre tu pecho.",
+          "repeticiones": "3 series de 12 repeticiones",
+          "video_guia": "https://example.com/video-aperturas-mancuernas"
+        }
+      ],
+      "abdomen": [
+        {
+          "nombre": "Crunches",
+          "tiempo": "1 min",
+          "descripcion": "Acostado boca arriba, eleva tus hombros del suelo hacia tus rodillas.",
+          "repeticiones": "3 series de 20 repeticiones",
+          "video_guia": "https://example.com/video-crunches"
+        },
+        {
+          "nombre": "Plancha",
+          "tiempo": "1 min",
+          "descripcion": "Mantén tu cuerpo recto en una posición de push-up durante el tiempo especificado.",
+          "repeticiones": "3 series de 1 minuto",
+          "video_guia": "https://example.com/video-plancha"
+        }
+      ],
+      "trapecio": [
+        {
+          "nombre": "Encogimientos de hombros",
+          "tiempo": "45 seg",
+          "descripcion": "Con pesas en las manos, encoge los hombros hacia arriba y luego bájalos.",
+          "repeticiones": "3 series de 15 repeticiones",
+          "video_guia": "https://example.com/video-encogimientos-hombros"
+        },
+        {
+          "nombre": "Remo con barra",
+          "tiempo": "1 min",
+          "descripcion": "Inclina el torso hacia adelante, con la barra en las manos, tira de la barra hacia tu pecho y bájala.",
+          "repeticiones": "3 series de 12 repeticiones",
+          "video_guia": "https://example.com/video-remo-barra"
+        }
+      ],
+      "hombros": [
+        {
+          "nombre": "Elevaciones laterales",
+          "tiempo": "45 seg",
+          "descripcion": "Con pesas en las manos, levanta los brazos hacia los lados hasta la altura del hombro y luego bájalos.",
+          "repeticiones": "3 series de 15 repeticiones",
+          "video_guia": "https://example.com/video-elevaciones-laterales"
+        },
+        {
+          "nombre": "Press militar",
+          "tiempo": "1 min",
+          "descripcion": "Sentado o de pie, levanta una barra sobre tu cabeza y luego bájala lentamente.",
+          "repeticiones": "3 series de 12 repeticiones",
+          "video_guia": "https://example.com/video-press-militar"
+        }
+      ]
+    }
+  }
+  

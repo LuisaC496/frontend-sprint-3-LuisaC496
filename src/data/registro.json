@@ -1,0 +1,290 @@
+{
+  "registros": [
+    {
+      "id": "5dbc",
+      "nombre": "MARIA",
+      "email": "tex3@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "04fa",
+      "nombre": "Olga Cabrera ",
+      "email": "tex2@gmail.com",
+      "password": "7894561230"
+    },
+    {
+      "id": "534f",
+      "nombre": "Olga Cabrera ",
+      "email": "tex3@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "3f29",
+      "nombre": "MARIA",
+      "email": "tex3@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "25d6",
+      "nombre": "Olga Cabrera ",
+      "email": "tex2@gmail.com",
+      "password": "789456"
+    },
+    {
+      "id": "6ca9",
+      "nombre": "Josefina",
+      "email": "jose@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "75e5",
+      "nombre": "JORGE LUIS",
+      "email": "jorgeLuis@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "30be",
+      "nombre": "Luisa Cabrera",
+      "email": "luisa@gmail.com",
+      "password": "789456"
+    },
+    {
+      "id": "58cb",
+      "nombre": "Martina",
+      "email": "martinad55@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "22f3",
+      "nombre": "Monica",
+      "email": "monica@gmail.com",
+      "password": "1230456"
+    },
+    {
+      "id": "629a",
+      "nombre": "Ana",
+      "email": "ana25@gmail.com",
+      "password": "7894566"
+    },
+    {
+      "id": "ca49",
+      "nombre": "Johana",
+      "email": "johana562@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "0833",
+      "nombre": "luisa cabrera",
+      "email": "cabrera123@gmail.com",
+      "password": "2589633"
+    }
+  ],
+  "estaturas": [
+    {
+      "id": "8843",
+      "estatura": 113
+    },
+    {
+      "id": "1fda",
+      "estatura": 160
+    },
+    {
+      "id": "18a5",
+      "estatura": 101
+    },
+    {
+      "id": "009a",
+      "estatura": 101
+    },
+    {
+      "id": "c5dd",
+      "estatura": 102
+    },
+    {
+      "id": "da1d",
+      "estatura": 102
+    },
+    {
+      "id": "7f69",
+      "estatura": 105
+    },
+    {
+      "id": "6460",
+      "estatura": 165
+    },
+    {
+      "id": "b3c1",
+      "estatura": 101
+    },
+    {
+      "id": "05f0",
+      "estatura": 102
+    },
+    {
+      "id": "c790",
+      "estatura": 101
+    },
+    {
+      "id": "9115",
+      "estatura": 102
+    },
+    {
+      "id": "25e6",
+      "estatura": 100
+    }
+  ],
+  "alturas": [
+    {
+      "id": "000e",
+      "altura": 102
+    },
+    {
+      "id": "6530",
+      "altura": 160
+    },
+    {
+      "id": "3dc7",
+      "altura": 101
+    }
+  ],
+  "edades": [
+    {
+      "id": "82f9",
+      "edad": 99
+    },
+    {
+      "id": "0af3",
+      "edad": 4
+    },
+    {
+      "id": "251a",
+      "edad": 7
+    },
+    {
+      "id": "cb43",
+      "edad": 22
+    },
+    {
+      "id": "eda3",
+      "edad": 2
+    },
+    {
+      "id": "61d1",
+      "edad": 2
+    },
+    {
+      "id": "e5ac",
+      "edad": 2
+    },
+    {
+      "id": "4fb1",
+      "edad": 15
+    },
+    {
+      "id": "eb78",
+      "edad": 7
+    }
+  ],
+  "generos": [
+    {
+      "id": "66cc",
+      "genero": "male"
+    },
+    {
+      "id": "8d5a",
+      "genero": "male"
+    },
+    {
+      "id": "71e7",
+      "genero": "male"
+    },
+    {
+      "id": "491f",
+      "genero": "female"
+    },
+    {
+      "id": "9d7a",
+      "genero": "male"
+    },
+    {
+      "id": "319a",
+      "genero": "Otro"
+    },
+    {
+      "id": "fa72",
+      "genero": "Femenino"
+    },
+    {
+      "id": "3b95",
+      "genero": "Femenino"
+    }
+  ],
+  "planes": [
+    {
+      "id": "4eb7",
+      "plan": "early"
+    },
+    {
+      "id": "f1eb",
+      "plan": "early"
+    },
+    {
+      "id": "74f3",
+      "plan": "early"
+    },
+    {
+      "id": "4831",
+      "plan": "early"
+    },
+    {
+      "id": "c1b1",
+      "plan": "early"
+    },
+    {
+      "id": "14b2",
+      "plan": "annual"
+    },
+    {
+      "id": "3039",
+      "plan": "monthly"
+    },
+    {
+      "id": "674b",
+      "plan": "annual"
+    }
+  ],
+  "pesos": [
+    {
+      "id": "dce9",
+      "peso": 42
+    },
+    {
+      "id": "b9ff",
+      "peso": 43
+    },
+    {
+      "id": "bbb3",
+      "peso": 54
+    },
+    {
+      "id": "48df",
+      "peso": 42
+    },
+    {
+      "id": "bf22",
+      "peso": 47
+    },
+    {
+      "id": "08d6",
+      "peso": 40
+    },
+    {
+      "id": "3051",
+      "peso": 41
+    },
+    {
+      "id": "b920",
+      "peso": 41
+    }
+  ]
+}
